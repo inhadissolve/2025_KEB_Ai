@@ -5,7 +5,8 @@
 # import chlearn as ch
 # from chlearn import LinearRegression
 # from chlearn import KNeighborsRegressor
-from sklearn.neighbors import KNeighborsRegressor
+# from sklearn.neighbors import KNeighborsRegressor
+from chlearn import KNeighborsRegressor
 import pandas as pd
 import matplotlib.pyplot as plt
 
